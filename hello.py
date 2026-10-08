@@ -1,0 +1,1 @@
+print("Привет! Это ServiceDesk Helper.")
